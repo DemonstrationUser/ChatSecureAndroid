@@ -83,6 +83,7 @@
   <string name="menu_start_chat">Start chat</string>
   <!-- Screen menu item on the contact list to sign out the service.-->
   <string name="menu_sign_out">Sign out</string>
+  <string name="check_check21">New string</string>
   <!-- Context/drop-down menu item for the contact list screen. The context menu is
     displayed when the user long clicks on a contact in the contact list. It lets the
     user to view the contact's profile. May be overrided by the plugin.-->
