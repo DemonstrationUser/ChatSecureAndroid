@@ -82,6 +82,10 @@
 		<string name="setup_passphrase_label1">Passphrase:</string>
 		<string name="setup_passphrase_label2">Passphrase (again):</string>
 		
+		<string name="new111">String that does not appears in first branch</string>
+		<string name="new222">Also some kind of new string</string>
+		<string name="new333">One more string new string from new branch</string>
+		
 		<string name="rekey_message">Enter a *new* passphrase. It must contain at least one uppercase, one lowercase and one number, and be longer than six characters.</string>
 		<string name="do_rekey">Encrypting your existing notes with the new passphrase (patience…)</string>
 		<string name="enter_pass">Enter your passphrase:</string>
